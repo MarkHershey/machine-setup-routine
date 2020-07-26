@@ -30,6 +30,16 @@ Personal machine (macOS &amp; Linux) setup routine
     - Spotlight - `opt` + `cmd` + `space`
 
 ### Dev
+- Install Homebrew
+    ```bash
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+    ```
+- Install dev tools
+    - `brew install wget`
+    - `brew install python`
+    - `brew install vim`
+    - `brew install youtube-dl`
+    - `brew install ffmpeg`
 - Xcode tool
 - Git 
 - Zsh + Oh My Zsh + p10k
