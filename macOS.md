@@ -16,7 +16,9 @@
 
 ### System Settings
 - Dock
-- Finder Side Bar
+- Finder Preference
+    - View -> Show Path Bar
+    - View -> Show Status Bar
 - Hot Corners
     - ↖ Put display into sleep
     - ↗ Notification center
