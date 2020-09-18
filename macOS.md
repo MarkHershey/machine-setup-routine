@@ -18,12 +18,12 @@
 - Dock
 - Finder Side Bar
 - Hot Corners
-    - Plu display into sleep
-    - Notification center
-    - Mission control
-    - Mission control
+    - ↖ Put display into sleep
+    - ↗ Notification center
+    - ↙ Mission control
+    - ↘ Mission control
 - Keyboard Shortcuts
-    - Switch Input - `caps lock`
+    - Switch Input Languages - `caps lock`
     - Spotlight - `opt` + `cmd` + `space`
 
 ### Dev
