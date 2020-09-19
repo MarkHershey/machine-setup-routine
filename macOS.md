@@ -43,3 +43,8 @@
 - Git
 - Z shell setup
 - Vim setup
+
+
+---
+
+reference: https://sourabhbajaj.com/mac-setup/
