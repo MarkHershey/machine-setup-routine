@@ -1,6 +1,14 @@
 # machine-setup-routine
 
-Personal machine (macOS &amp; Linux) setup routine
+Machine (macOS &amp; Linux) setup routine
+
+## Get Started
+
+To clone this repository with all its sub-modules:
+
+```bash
+git clone --recursive https://github.com/MarkHershey/machine-setup-routine.git
+```
 
 ## platform-specific setup:
 
@@ -10,7 +18,7 @@ Personal machine (macOS &amp; Linux) setup routine
 
 ## platform-independent setup:
 
-- `shell` setup refers to [this repo](https://github.com/MarkHershey/dotfiles).
-- `vim` setup refers to [this repo](https://github.com/MarkHershey/vimrc).
+- `shell` setup refers to [this doc](dotfiles/README.md).
+- `vim` setup refers to [this doc](vimrc/README.md).
 - `atom` setup refers to [this doc](atom.md).
-- `vscode` setup
+- `vscode` setup refers to [this doc](vscode.md).
