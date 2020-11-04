@@ -15,7 +15,7 @@
     - Disable built-in keyboard when external keyboard is connected
 
 ### System Settings
-- Dock
+- Deck
 - Finder Preference
     - View -> Show Path Bar
     - View -> Show Status Bar
@@ -25,8 +25,8 @@
     - ↙ Mission control
     - ↘ Mission control
 - Keyboard Shortcuts
-    - Switch Input Languages - `caps lock`
-    - Spotlight - `opt` + `cmd` + `space`
+    - Switch Input Languages: `caps lock`
+    - Spotlight: `opt` + `cmd` + `space`
 
 ### Dev
 - Install Homebrew
