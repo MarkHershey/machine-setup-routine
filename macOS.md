@@ -15,7 +15,12 @@
     - Disable built-in keyboard when external keyboard is connected
 
 ### System Settings
-- Deck
+- Dock Preference
+    - Position on screen: Left
+    - Minimise windows into application icon: On
+    - Show recent applications in Dock: Off
+- User & Groups
+    - Show fast user switching menu as: Full Name
 - Finder Preference
     - View -> Show Path Bar
     - View -> Show Status Bar
